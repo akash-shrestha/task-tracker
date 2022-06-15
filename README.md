@@ -1,4 +1,8 @@
-# Getting Started with the App
+# Introduction
+
+App that lets you manage your to-do tasks list
+
+## Getting Started with the App
 
 In the project directory, you can run:
 
